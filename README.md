@@ -1,12 +1,18 @@
 This repository contains the preprocessing, training, and prediction evaluation scripts for the following paper:
 
-
-@inproceedings{kaivalya,
-  title={Evaluation of Transfer Learning for Adverse Drug Event (ADE) and Medication Entity Extraction},
-  author={Narayanan, Sankaran and Mannam, Kaivalya and Rajan, Sreeranga P., and Rangan, P Venkat},
-  note = {(in press)},
-  booktitle={Proceedings of the 3rd Clinical Natural Language Processing Workshop (ClinicalNLP)},
-  year={2020}
+@inproceedings{narayanan-etal-2020-evaluation,
+    title = "Evaluation of Transfer Learning for Adverse Drug Event ({ADE}) and Medication Entity Extraction",
+    author = "Narayanan, Sankaran  and
+      Mannam, Kaivalya  and
+      Rajan, Sreeranga P  and
+      Rangan, P Venkat",
+    booktitle = "Proceedings of the 3rd Clinical Natural Language Processing Workshop",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.clinicalnlp-1.6",
+    pages = "55--64"
 }
 
 
