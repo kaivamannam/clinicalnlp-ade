@@ -1,7 +1,9 @@
 This repository contains the preprocessing, training, and prediction evaluation scripts for the following paper.
 
 Paper:              https://www.aclweb.org/anthology/2020.clinicalnlp-1.6/
+
 Video Presentation: https://slideslive.com/38939820
+
 Citation:
                     @inproceedings{narayanan-etal-2020-evaluation,
                         title = "Evaluation of Transfer Learning for Adverse Drug Event ({ADE}) and Medication Entity Extraction",
